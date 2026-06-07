@@ -1,14 +1,19 @@
-# esp32-gpio-basics
-What I learned
+# IoT Internship — Livwize
+Learning log and code from my internship at Livwize (Wizelabs Pvt Ltd), 
+working on ESP32, Arduino, IoT gateways, and Python.
 
-GPIO configuration
-pinMode()
-digitalWrite()
-LED polarity
-ESP32 GPIO12 quirks
-Hardware debugging process
+## Week 1 Progress
+- Day 1: Installed Arduino IDE, completed Blink example variations.
 
-Bug fixed
+## Tools and Technologies
+- Arduino IDE
+- ESP32 board
+- C
+- Python (upcoming)
+- MQTT (upcoming)
 
-Forgot to configure GPIO22 as OUTPUT
-LED appeared dead but was functional
+## Key Learnings So Far
+- GPIO pins can be set as INPUT or OUTPUT
+- HIGH = voltage, LOW = no voltage
+- delay() pauses the processor
+- Debugging requires patience and the Serial Monitor
