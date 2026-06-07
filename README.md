@@ -8,7 +8,7 @@ working on ESP32, Arduino, IoT gateways, and Python.
 ## Tools and Technologies
 - Arduino IDE
 - ESP32 board
-- C
+- C++
 - Python (upcoming)
 - MQTT (upcoming)
 
