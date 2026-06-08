@@ -1,3 +1,4 @@
+Understanding how the serial monitor works.
 Downloaded from https://wokwi.com/projects/466197047401379841
 Simulate this project on https://wokwi.com
 
