@@ -1,2 +1,2 @@
 #DEMO
-![Blink Demo](demo.gif)
+![toggle Demo](demo.gif)
